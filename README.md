@@ -49,36 +49,35 @@ Software (and versions), custom scripts, and additional databases used are liste
 - crass v1.0.1
 - blast v2.13.0
 - pepstats: EMBOSS v6.6.0
-- BBMap v39.01
 - SAMtools v1.19
 - featureCounts (subread-2.0.6-Linux-x86_64)
 
 ## Custom scripts used throughout this workflow (available in scripts/)
 
-- scripts/general/compile_dram_annotations.py
-- scripts/general/antiphage_padloc_summary_table.py
-- scripts/viruses.identification/dvfind_add_fdr.R
-- scripts/viruses.identification/dvfpred_extract_fasta.py
-- scripts/viruses.identification/dvfpred_filter_euk.py
-- scripts/viruses.identification/summarise_viral_contigs.py
-- scripts/viruses.identification/virome_per_sample_derep.py
-- scripts/viruses.identification/checkv_filter_contigs.py
-- scripts/viruses.identification/filter_viruses_by_completeness.py
-- scripts/viruses.identification/ictv_reconcile_refseq_taxonomy.py
-- scripts/viruses.identification/vcontact2_update_refseq_taxonomy.py 
-- scripts/viruses.identification/tax_predict_vConTACT2.0.11.3.tax_update_202309.py
-- scripts/general/dramv_compile_summary_table.py
-- scripts/viruses.caudo_phylogeny/filter_refseq_by_taxonomy.py
-- scripts/viruses.caudo_phylogeny/identify_core_genes.py
-- scripts/viruses.caudo_phylogeny/collate_core_genes.py
-- scripts/viruses.caudo_phylogeny/concatenate_protein_alignments.py
-- scripts/viruses.general/virus_niche_summarise_vConTACT2_clusters.py
-- scripts/viruses.general/hostmatch_crispr_summary_table.py
-- scripts/general/extract_aa_and_gc_proportions.py
-- scripts/general/summarise_pepstats_pI.py
-- scripts/general/featurecounts_make_feature_table.py
-- scripts/general/summarise_counts.py
-- scripts/general/summarise_counts.R
+- viruses.identification/dvfind_add_fdr.R
+- viruses.identification/dvfpred_extract_fasta.py
+- viruses.identification/dvfpred_filter_euk.py
+- viruses.identification/summarise_viral_contigs.py
+- viruses.identification/virome_per_sample_derep.py
+- viruses.identification/checkv_filter_contigs.py
+- viruses.identification/filter_viruses_by_completeness.py
+- viruses.identification/ictv_reconcile_refseq_taxonomy.py
+- viruses.identification/vcontact2_update_refseq_taxonomy.py 
+- viruses.identification/tax_predict_vConTACT2.0.11.3.tax_update_202309.py
+- viruses.caudo_phylogeny/filter_refseq_by_taxonomy.py
+- viruses.caudo_phylogeny/identify_core_genes.py
+- viruses.caudo_phylogeny/collate_core_genes.py
+- viruses.caudo_phylogeny/concatenate_protein_alignments.py
+- viruses.general/virus_niche_summarise_vConTACT2_clusters.py
+- viruses.general/hostmatch_crispr_summary_table.py
+- general/compile_dram_annotations.py
+- general/dramv_compile_summary_table.py
+- general/antiphage_padloc_summary_table.py
+- general/extract_aa_and_gc_proportions.py
+- general/summarise_pepstats_pI.py
+- general/featurecounts_make_feature_table.py
+- general/summarise_counts.py
+- general/summarise_counts.R
 
 Note: The following MIT licence applies to all custom scripts
 
