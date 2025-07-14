@@ -1,0 +1,45 @@
+vogdb_id	FunctionalCategory	ConsensusFunctionalDescription
+VOG02491	XhXs	sp|P03711|SCAF_LAMBD Capsid assembly protease C
+VOG02518	Xr	sp|P00471|TYSY_BPT4 Thymidylate synthase
+VOG03054	Xh	sp|Q7Y4Y9|DNMK_BPR69 Deoxynucleotide monophosphate kinase
+VOG03278	XhXr	sp|P20376|SSDNA_BPT5 Probable ssDNA-binding protein
+VOG03338	Xh	sp|O07635|YLAK_BACSU Uncharacterized protein YlaK
+VOG03962	Xu	sp|Q9T1P7|VP51_BPAPS Putative protein p51
+VOG05079	XhXp	sp|O64205|LYSB_BPMD2 Endolysin B
+VOG07388	Xp	sp|P04521|EXO1_BPT4 Exonuclease subunit 1
+VOG09328	Xu	sp|O31907|YORG_BACSU SPbeta prophage-derived uncharacterized protein YorG
+VOG10353	XhXr	sp|P00573|RPOL_BPT7 T7 RNA polymerase
+VOG14822	XhXp	sp|P04522|EXO2_BPT4 Exonuclease subunit 2
+VOG15635	XhXr	sp|O64235|DPOL_BPMD2 DNA polymerase
+VOG15968	XhXr	sp|Q05259|THYX_BPML5 Probable flavin-dependent thymidylate synthase
+VOG16417	Xu	sp|O31948|YONJ_BACSU SPbeta prophage-derived uncharacterized protein YonJ
+VOG16662	Xh	sp|P20703|UVSW_BPT4 ATP-dependent DNA helicase uvsW
+VOG19304	Xs	sp|Q05229|VG23_BPML5 Major tail protein Gp23
+VOG20914	XhXr	sp|P16006|DCTD_BPT4 Deoxycytidylate deaminase
+VOG21049	XhXr	sp|P04520|PRIM_BPT4 DNA primase
+VOG22646	XrXs	sp|P19727|CAPSB_BPT7 Minor capsid protein
+VOG24700	XhXs	sp|D3WAC4|PRO_BPLP2 Probable capsid maturation protease
+VOG25328	XhXr	sp|P04530|HELIC_BPT4 DnaB-like replicative helicase
+VOG25759	Xh	sp|P37427|RIR2_SALTY Ribonucleoside-diphosphate reductase 1 subunit beta
+VOG28420	XrXs	sp|O64219|TAP25_BPMD2 Tail assembly protein Gp25
+VOG29998	Xu	sp|Q05235|VG28_BPML5 Minor tail protein Gp28
+VOG30672	Xh	sp|P04382|DYR_BPT4 Dihydrofolate reductase
+VOG30786	Xu	sp|P9WGD5|SSB_MYCTU Single-stranded DNA-binding protein
+VOG31678	XhXs	sp|P51767|BPJ_BPP2 Baseplate protein J
+VOG39733	Xu	sp|P04536|EXOD_BPT4 Exodeoxyribonuclease
+VOG41382	Xs	sp|Q05222|SCAF_BPML5 Probable capsid assembly scaffolding protein
+VOG41589	XhXr	sp|P10310|TERL_BPT3 Terminase, large subunit
+VOG42827	XhXp	sp|O80288|ENLYS_BPPS3 SAR-endolysin
+VOG46018	Xr	sp|P13319|RNH_BPT4 Ribonuclease H
+VOG46207	Xu	sp|P13309|Y06D_BPT4 Uncharacterized 17.5 kDa protein in tk-vs intergenic region
+VOG49277	XhXr	sp|P00970|DNLI_BPT4 DNA ligase
+VOG49953	XpXrXs	sp|D3WAC3|PORTL_BPLP2 Probable portal protein
+VOG51451	XhXp	sp|P06855|KIPN_BPT4 Polynucleotide kinase
+VOG52065	XhXs	sp|P09425|BP25_BPT4 Baseplate wedge protein gp25
+VOG55957	XhXr	sp|P17312|TERL_BPT4 Terminase, large subunit
+VOG57177	XhXr	sp|P22877|INTR_SACER Integrase
+VOG57811	Xh	sp|P00452|RIR1_ECOLI Ribonucleoside-diphosphate reductase 1 subunit alpha
+VOG57930	XpXrXs	sp|O64207|PORTL_BPMD2 Portal protein
+VOG57965	XhXr	sp|Q9CQ43|DUT_MOUSE Deoxyuridine 5'-triphosphate nucleotidohydrolase
+VOG58699	Xu	sp|P45911|YQAN_BACSU Uncharacterized protein YqaN
+VOG58719	Xu	sp|O64221|VG27_BPMD2 Minor tail protein Gp27
