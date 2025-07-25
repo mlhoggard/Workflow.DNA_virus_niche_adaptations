@@ -1,6 +1,6 @@
 # Data processing overview for the study: 
 
-#### DNA virus adaptations are influenced by environment and proliferation is constrained by environmental niche  
+#### Adaptations of DNA viruses are influenced by host and environment with proliferations constrained by environmental niche  
 
 Michael Hoggard, Emilie Gios, Hwee Sze Tee, Jemma L. Geoghegan, Kim M. Handley
 
@@ -11,6 +11,8 @@ Michael Hoggard, Emilie Gios, Hwee Sze Tee, Jemma L. Geoghegan, Kim M. Handley
 To investigate estuarine viral diversity, niche constraints, and genomic traits of environmental adaptation, we analysed metagenomic and metatranscriptomic data from across an estuarine salinity gradient, including water and sediment habitats. We then expanded our analysis to globally distributed viral genomes from the IMG/VR database. 
 
 These docs present an overview of the data processing workflow used in this study.
+
+Additional workflows and details on the use of environmental metagenomics to study prokaryotes and/or DNA viruses are also available [here](https://github.com/GenomicsAotearoa/environmental_metagenomics).
 
 Software (and versions), custom scripts, and additional databases used are listed below.
 
